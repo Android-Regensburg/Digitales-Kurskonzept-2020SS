@@ -26,7 +26,8 @@ Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching 
 
 ### Studienleistungen und Prüfungen
 > Genaue Ausgestaltung noch sehr unklar
-Alle Prüfungen werden, soweit möglich, elektronisch und 
+
+Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt. Im besten Fall kann dafür das ILIAS-System (Vgl. *Eignungsprüfung*) eingesetzt werden. Der genaue Ablauf muss in Absprache mit der Rechts 
 ## Eingesetzte Werkzeuge
 ### Lernplattform
 - Alle statische Materialien werden den StudentInnen über ILIAS bereitgestellt
@@ -46,6 +47,6 @@ Alle Prüfungen werden, soweit möglich, elektronisch und
 *tba*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTA5NDA5OTEsLTUzNDM0NDczMSw2NT
-AzNjM5ODAsMjc4NTk0MTMwLDc3MjI4OTQ4NV19
+eyJoaXN0b3J5IjpbMTMyNTEyNDU1NiwtNTM0MzQ0NzMxLDY1MD
+M2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
 -->
