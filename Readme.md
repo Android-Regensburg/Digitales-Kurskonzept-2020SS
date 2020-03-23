@@ -32,12 +32,13 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 - Als Streaming-Plattform wird [Twitch](twitch.tv) eingesetzt
 - Client-seitig wird [OBS](https://obsproject.com/de) verwendet
 - Alle Streams werden kurzfristig über Twitch archiviert, heruntergeladen und dauerhaft über andere Systeme verteilt (z.B. Mediathek der Uni oder YouTube)
+- Für das Streamen/Aufzeichnen wird ein UR-gebrandetes Overlay bzw. Szenenpak
 ### Live-Coaching
 - Als Plattform für das Live-Coaching werden einzelne Kanäle auf [Discord](https://discordapp.com/) oder eine ähnliche Umgebung (z.B. der [Rocket-Chat der Universität Regensburg]([https://chat.ur.de](https://chat.ur.de/)) eingesetzt
 ## TODOs
 *tba*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk4OTcyODEsLTUzNDM0NDczMSw2NT
-AzNjM5ODAsMjc4NTk0MTMwLDc3MjI4OTQ4NV19
+eyJoaXN0b3J5IjpbLTIyOTAyODgwNiwtNTM0MzQ0NzMxLDY1MD
+M2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
 -->
