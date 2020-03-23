@@ -27,7 +27,7 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 ## Eingesetzte Werkzeuge
 ### Lernplattform
 - Alle statische Materialien werden den StudentInnen über ILIAS bereitgestellt
-- Alle Übungsaufgaben und Handouts werden 
+- Alle Übungsaufgaben und Handouts werden über [Github](https://github.com/Android-Regensburg) erstellt und gepflegt und von dort im ILIAS-System als Starterpaket bzw. PDF zum Download angeboten
 ### Streaming und Aufzeichnung
 - Als Streaming-Plattform wird [Twitch](twitch.tv) eingesetzt
 - Client-seitig wird [OBS](https://obsproject.com/de) verwendet
@@ -38,6 +38,6 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 *tba*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDczOTY2MywtNTM0MzQ0NzMxLDY1MD
-M2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
+eyJoaXN0b3J5IjpbLTEyMDk4OTcyODEsLTUzNDM0NDczMSw2NT
+AzNjM5ODAsMjc4NTk0MTMwLDc3MjI4OTQ4NV19
 -->
