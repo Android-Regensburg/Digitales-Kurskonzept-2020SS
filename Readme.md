@@ -45,9 +45,13 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 ### Live-Coaching
 - Als Plattform für das Live-Coaching werden einzelne Kanäle auf [Discord](https://discordapp.com/) oder eine ähnliche Umgebung (z.B. der [Rocket-Chat der Universität Regensburg]([https://chat.ur.de](https://chat.ur.de/)) eingesetzt
 ## TODOs
-*tba*
+> Unvollständig
+
+* [ ] Übungsaufaben nach Github übertragen
+* [ ] Hardware (Webcams) für Tutorn besorgen
+* [ ] Streams planen und inhaltich vorberite 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDA4MzQsLTUzNDM0NDczMSw2NTAzNj
-M5ODAsMjc4NTk0MTMwLDc3MjI4OTQ4NV19
+eyJoaXN0b3J5IjpbMTg4MTk0MTI5NCwtNTM0MzQ0NzMxLDY1MD
+M2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
 -->
