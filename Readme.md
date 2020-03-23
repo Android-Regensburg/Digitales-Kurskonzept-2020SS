@@ -24,7 +24,7 @@ Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching 
 ### Projekte
 > Genaue Ausgestaltung noch sehr unklar
 
-Die Projekte werden vorrangig über die Plattform *Github* organisiert und unterstützt. Zur administrativen Erleichterung wird dabei [Github Classroom](https://classroom.github.com/) eingesetzt. **Achtung:** Im Vorfeld müssen die Studierenden im Umgang mit dieser Plattform geschult werden. Vordergründig sollte dabei die Verwendung der Plattform und grundlegende Kenntnisse des Versionskontrollsystems `git` vermittelt werden. Die StudentInnen werden in die Lage versetzt, *Github* effizient für die kollaborative Arbeit an einem **studentischen** Softwareprojekt einzu
+Die Projekte werden vorrangig über die Plattform *Github* organisiert und unterstützt. Zur administrativen Erleichterung wird dabei [Github Classroom](https://classroom.github.com/) eingesetzt. **Achtung:** Im Vorfeld müssen die Studierenden im Umgang mit dieser Plattform geschult werden. Vordergründig sollte dabei die Verwendung der Plattform und grundlegende Kenntnisse des Versionskontrollsystems `git` vermittelt werden. Die StudentInnen werden in die Lage versetzt, *Github* effizient für die kollaborative Arbeit an einem **studentischen** Softwareprojekt einzusetzen. Der professionelle Umgang und damit verbundene *Software Engineering*Techniken sind ein nachgeordnetes Lernziel.
 ### Studienleistungen und Prüfungen
 > Genaue Ausgestaltung noch sehr unklar
 
@@ -48,6 +48,6 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 *tba*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTEyMTQ2MywtNTM0MzQ0NzMxLDY1MD
-M2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
+eyJoaXN0b3J5IjpbMTE3MDA4MzQsLTUzNDM0NDczMSw2NTAzNj
+M5ODAsMjc4NTk0MTMwLDc3MjI4OTQ4NV19
 -->
