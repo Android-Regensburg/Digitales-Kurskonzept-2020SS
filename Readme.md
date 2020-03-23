@@ -20,7 +20,7 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 * Die studentischen Lösungen vorgestellt und präsentiert
 * Abweichungen vom Lösungsvorschlag diskutiert
 * Individuelle Probleme geklärt
-Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching erstellt, das die wichtigsten Punkte und Hinweise für die Studierenden zusammenfasst. Diese Leitfäden werden kollaboartiv 
+Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching erstellt, das die wichtigsten Punkte und Hinweise für die Studierenden zusammenfasst. Diese Leitfäden werden kollaborativ durch alle Lehrenden erstellt.
 ### Projekte
 *tba*
 ### Studienleistungen und Prüfungen
@@ -44,6 +44,6 @@ Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching 
 *tba*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjEzMTkxNDQsLTUzNDM0NDczMSw2NT
-AzNjM5ODAsMjc4NTk0MTMwLDc3MjI4OTQ4NV19
+eyJoaXN0b3J5IjpbMTM4MTgzOTExMCwtNTM0MzQ0NzMxLDY1MD
+M2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
 -->
