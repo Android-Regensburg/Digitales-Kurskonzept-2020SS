@@ -30,11 +30,11 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 - Client-seitig wird [OBS](https://obsproject.com/de) verwendet
 - Alle Streams werden kurzfristig über Twitch archiviert, heruntergeladen und dauerhaft über andere Systeme verteilt (z.B. Mediathek der Uni oder YouTube)
 ### Live-Coaching
-- Als Plattform für das Live-Coaching wird [Discord](https://discordapp.com/) oder eine ähnliche 
+- Als Plattform für das Live-Coaching werden einzelne Kanäle auf [Discord](https://discordapp.com/) oder eine ähnliche Umgebung (z.B
 ## TODOs
 *tba*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQ0MzEzNjEsLTUzNDM0NDczMSw2NT
-AzNjM5ODAsMjc4NTk0MTMwLDc3MjI4OTQ4NV19
+eyJoaXN0b3J5IjpbODc5MDgwMDM1LC01MzQzNDQ3MzEsNjUwMz
+YzOTgwLDI3ODU5NDEzMCw3NzIyODk0ODVdfQ==
 -->
