@@ -14,12 +14,15 @@ Wöchentlich findet eine kurze (max. 20 Minuten) Zentralübung in Form eines Liv
 * **Inhalt**: In der Zentralübung werden die aktuellen Themen der Vorlesung und Übung inhaltlich verortet. Dazu werden die zentralen Themen der Vorlesung zusammengefasst und entsprechende Hinweise für deren Aufbereitung im Selbststudium gegeben. Zusätzlich wird das aktuelle Übungsblatt bzw. die aktuelle Übungsaufgabe vorgestellt und allgemeine Hinweise zu deren Bearbeitung gegeben. 
 * **Lernstandskontrolle**: In der Zentralübung wird deutlich gemacht, welche Inhalt aktuell bekannt und sicher angewendet werden können sollten.
 ### Übungsaufgaben und Betreuung
+Die Bearbeitung der Übungsaufgaben erfolgt individuelle. Die Lerngruppen sollen sich dabei jedoch unterstützen und austauschen. Jede Lerngruppe wird von Lehrende betreut. Dazu werden regelmäßige, halbstündige Terminslots mit den Gruppen vereinbart. 
+
+
 ### Projekte
 ### Studienleistungen und Prüfungen
 ## Eingesetzte Werkzeuge
 ## TODOs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjI3NzA4NCwyNzg1OTQxMzAsNzcyMj
+eyJoaXN0b3J5IjpbLTI5Mzc4NjM5NCwyNzg1OTQxMzAsNzcyMj
 g5NDg1XX0=
 -->
