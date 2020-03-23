@@ -11,7 +11,8 @@ Die StudentInnen werden zu Beginn des Semesters in Lerngruppen zu maximal 6 Stud
 Wöchentlich findet eine kurze (max. 20 Minuten) Zentralübung in Form eines Live-Streams statt. Der Stream ist öffentlich und wird im Anschluss über entsprechende Links im ILIAS-System bereitgestellt. Die Zentralübung soll dabei die folgenden Ziele umsetzten:
 * **Struktur**: Durch die regelmäßige Durchführung des Streams mit allen Kursbeteiligten wird Kontinuität und Struktur geschaffen, die in der vollständig digitalisierten Kursform ggf. verloren gehen würde.
 * **Organisation**: Im Rahmen des Live-Streams können organisatorische Hinweise für den gesamten Kurs, z.B. die Erinnerung an die Flexnow-Anmeldung, ggb. werden. Diese erfolgen zusätzlich auch über die bereit bekannten asynchronen Systeme (ILIAS).
-* **Inhalt**: In der Zentralübung werden die aktuellen Themen der Vorlesung und Übung inhaltlich verortet. Dazu werden die zentralen Themen der Vorlesung zusammengefasst und entsprechende Hinweise für deren Aufbereitung im Selbststudium gegeben. Zusätzlich 
+* **Inhalt**: In der Zentralübung werden die aktuellen Themen der Vorlesung und Übung inhaltlich verortet. Dazu werden die zentralen Themen der Vorlesung zusammengefasst und entsprechende Hinweise für deren Aufbereitung im Selbststudium gegeben. Zusätzlich wird das aktuelle Übungsblatt bzw. die aktuelle Übungsaufgabe vorgestellt und allgemeine Hinweise zu deren Bearbeitung gegeben. 
+* **Lernstandskontrolle**: In der Zentralübung wird deutlich gemacht, welche Inhalt aktuell bekannt und sicher angewendet werden können sollten.
 ### Übungsaufgaben und Betreuung
 ### Projekte
 ### Studienleistungen und Prüfungen
@@ -19,6 +20,6 @@ Wöchentlich findet eine kurze (max. 20 Minuten) Zentralübung in Form eines Liv
 ## TODOs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Mjg3MTY2MSwyNzg1OTQxMzAsNzcyMj
+eyJoaXN0b3J5IjpbMjA5MjI3NzA4NCwyNzg1OTQxMzAsNzcyMj
 g5NDg1XX0=
 -->
