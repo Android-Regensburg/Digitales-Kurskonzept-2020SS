@@ -24,6 +24,8 @@ Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching 
 ### Projekte
 > Genaue Ausgestaltung noch sehr unklar
 
+Die Projekte werden vorrangig über die Plattform *Github* organisiert und unterstützt. Zur administrativen Erleichterung wird dabei [Github Classroom](https://classroom.github.com/) eingesetzt. **Im Vorfeld müssen die Studierenden im Umgang mit dieser Plattform geschult werden. Vordergründig 
+
 ### Studienleistungen und Prüfungen
 > Genaue Ausgestaltung noch sehr unklar
 
@@ -47,6 +49,6 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 *tba*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjIwODkyMDUsLTUzNDM0NDczMSw2NT
-AzNjM5ODAsMjc4NTk0MTMwLDc3MjI4OTQ4NV19
+eyJoaXN0b3J5IjpbMTQ4OTMyNDA2NSwtNTM0MzQ0NzMxLDY1MD
+M2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
 -->
