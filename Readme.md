@@ -1,6 +1,6 @@
 # Android im Sommersemester 2020
 ## Grundsätzlicher Aufbau und Kursbestandteile
-Der Kur
+Der Kurs besteht aus einer bereits digitalisierten Vorlesung und einer freiwilligen Präsenzübung für die Regensburger Studierende
 ### Studienleistungen und Prüfungen
 ### Vorlesung
 ### Übung
@@ -9,5 +9,5 @@ Der Kur
 ## TODOs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2NzQxMzk0LDc3MjI4OTQ4NV19
+eyJoaXN0b3J5IjpbMjc4NTk0MTMwLDc3MjI4OTQ4NV19
 -->
