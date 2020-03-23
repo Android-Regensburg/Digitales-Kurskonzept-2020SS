@@ -28,11 +28,13 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 ### Streaming und Aufzeichnung
 - Als Streaming-Plattform wird [Twitch](twitch.tv) eingesetzt
 - Client-seitig wird [OBS](https://obsproject.com/de) verwendet
-- Alle Streams werden kurzf
+- Alle Streams werden kurzfristig über Twitch archiviert, heruntergeladen und dauerhaft über andere Systeme verteilt (z.B. Mediathek der Uni oder YouTube)
+### Live-Coaching
+- Als Plattform wird Discord
 ## TODOs
 *tba*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Nzg5ODU4MCw2NTAzNjM5ODAsMjc4NT
+eyJoaXN0b3J5IjpbLTUzNDM0NDczMSw2NTAzNjM5ODAsMjc4NT
 k0MTMwLDc3MjI4OTQ4NV19
 -->
