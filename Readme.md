@@ -22,9 +22,11 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 * Individuelle Probleme geklärt
 Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching erstellt, das die wichtigsten Punkte und Hinweise für die Studierenden zusammenfasst. Diese Leitfäden werden kollaborativ durch alle Lehrenden erstellt.
 ### Projekte
-> WOr
+> Genaue Ausgestaltung noch sehr unklar
+
 ### Studienleistungen und Prüfungen
-*tba*
+> Genaue Ausgestaltung noch sehr unklar
+Alle Prüfungen werden, soweit möglich, elektronisch und 
 ## Eingesetzte Werkzeuge
 ### Lernplattform
 - Alle statische Materialien werden den StudentInnen über ILIAS bereitgestellt
@@ -44,6 +46,6 @@ Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching 
 *tba*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDEzMzkxNTMsLTUzNDM0NDczMSw2NT
+eyJoaXN0b3J5IjpbLTEwMTA5NDA5OTEsLTUzNDM0NDczMSw2NT
 AzNjM5ODAsMjc4NTk0MTMwLDc3MjI4OTQ4NV19
 -->
