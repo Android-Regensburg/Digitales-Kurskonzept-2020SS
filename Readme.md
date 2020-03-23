@@ -25,10 +25,13 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 ### Studienleistungen und Prüfungen
 *tba*
 ## Eingesetzte Werkzeuge
-
+### Streaming und Aufzeichnung
+- Als Streaming-Plattform wird [Twitch](twitch.tv) eingesetzt
+- Client-seitig wird 
 ## TODOs
+*tba*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODYyMDM1MjEsNjUwMzYzOTgwLDI3OD
-U5NDEzMCw3NzIyODk0ODVdfQ==
+eyJoaXN0b3J5IjpbMTkwMzQ0NjUxLDY1MDM2Mzk4MCwyNzg1OT
+QxMzAsNzcyMjg5NDg1XX0=
 -->
