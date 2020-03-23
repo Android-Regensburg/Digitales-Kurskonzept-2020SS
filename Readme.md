@@ -9,7 +9,9 @@ Die Vorlesung liegt in Form von Foliensätzen und Vorlesungsaufzeichnungen vor. 
 Die StudentInnen werden zu Beginn des Semesters in Lerngruppen zu maximal 6 Studierenden aufgeteilt. Die Auswahl der Lerngruppen erfolgt zu nächst selbstverantwortlich über entsprechende ILIAS-Funktionen oder externe Werkzeuge. Die Lerngruppen sollen das Selbsstudium und eigenverantwortliche Lernen unterstützten und sind Kernelement der individuellen Betreuung durch die Lehrenden. Jede Lerngruppe hat ein/e feste BetreuerIn (Dozierende und TutorInnen). Zu Beginn des Semesters werden die Lerngruppen **durch entsprechende Tutorials und Hinweise** auf Möglichkeiten der Zusammenarbeit hingewiesen und dementsprechend geschult.
 ### Zentralübung
 Wöchentlich findet eine kurze (max. 20 Minuten) Zentralübung in Form eines Live-Streams statt. Der Stream ist öffentlich und wird im Anschluss über entsprechende Links im ILIAS-System bereitgestellt. Die Zentralübung soll dabei die folgenden Ziele umsetzten:
-* Kurstruktur schaffen: Durch die regelmäßige Durchführung des Streams mit allen Kursbeteiligten wird Kontinuität und Struktur geschaffen, die in der vollständig digitalisierten Kursform ggf. verloren gehen würde. Der Stream ist auch die Mög
+* **Struktur**: Durch die regelmäßige Durchführung des Streams mit allen Kursbeteiligten wird Kontinuität und Struktur geschaffen, die in der vollständig digitalisierten Kursform ggf. verloren gehen würde.
+* Organisation: Im Rahmen des Live-Streams können organisatorische Hinweise für den gesamten Kurs, z.B. die Erinnerung an die Flexnow-Anmeldung, ggb. werden. Diese erfolgen zusätzlich auch über die bereit bekannten asynchronen Systeme (ILIAS).
+* 
 ### Übungsaufgaben und Betreuung
 ### Projekte
 ### Studienleistungen und Prüfungen
@@ -17,6 +19,6 @@ Wöchentlich findet eine kurze (max. 20 Minuten) Zentralübung in Form eines Liv
 ## TODOs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQyODY2NjksMjc4NTk0MTMwLDc3Mj
-I4OTQ4NV19
+eyJoaXN0b3J5IjpbMjI3ODgzMjkzLDI3ODU5NDEzMCw3NzIyOD
+k0ODVdfQ==
 -->
