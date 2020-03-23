@@ -18,6 +18,7 @@ Die Bearbeitung der Übungsaufgaben erfolgt individuelle. Die Lerngruppen sollen
 #### Live-Coaching
 Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 * Die studentischen Lösungen vorgestellt und präsentiert
+* Auf 
 * Individuelle Probleme geklärt
 * 
 ### Projekte
@@ -26,6 +27,6 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 ## TODOs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTE2MzQ2NTQsMjc4NTk0MTMwLDc3Mj
-I4OTQ4NV19
+eyJoaXN0b3J5IjpbNjUwMzYzOTgwLDI3ODU5NDEzMCw3NzIyOD
+k0ODVdfQ==
 -->
