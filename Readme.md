@@ -21,11 +21,14 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 * Abweichungen vom Lösungsvorschlag diskutiert
 * Individuelle Probleme geklärt
 ### Projekte
+*tba*
 ### Studienleistungen und Prüfungen
+*tba*
 ## Eingesetzte Werkzeuge
+
 ## TODOs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDI1MTc5MSw2NTAzNjM5ODAsMjc4NT
-k0MTMwLDc3MjI4OTQ4NV19
+eyJoaXN0b3J5IjpbLTE1ODYyMDM1MjEsNjUwMzYzOTgwLDI3OD
+U5NDEzMCw3NzIyODk0ODVdfQ==
 -->
