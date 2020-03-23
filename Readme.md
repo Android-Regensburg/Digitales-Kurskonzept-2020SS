@@ -47,11 +47,14 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 ## TODOs
 > Unvollständig
 
+* [ ] Dokumenten-Repository als Grundlage für Ausarbeitung weiterer Kursmaterialen schaffen
 * [ ] Übungsaufaben nach Github übertragen
 * [ ] Hardware (Webcams) für Tutorn besorgen
-* [ ] Streams planen und inhaltich vorberite 
+* [ ] Zusätzliche Tutorials und Informationen vorbereiten
+* [ ] Streams planen und inhaltlich vorbereiten 
+* [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTk0MTI5NCwtNTM0MzQ0NzMxLDY1MD
+eyJoaXN0b3J5IjpbMTA3NDkyMTM0NywtNTM0MzQ0NzMxLDY1MD
 M2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
 -->
