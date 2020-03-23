@@ -6,8 +6,9 @@ Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet
 ### Vorlesung
 Die Vorlesung liegt in Form von Foliensätzen und Vorlesungsaufzeichnungen vor. Die Veranstaltung ist in wöchentliche Themenblöcke aufgeteilt. Zu den Themenblöcken existieren Quizes zur individuellen Lernstandskontrolle, die bei Bedarf ergänzt werden. Zusätzliches Material in Form von Links und Tutorials wird sukzessive ergänzt. Eine weitere Anpassung dieses Veranstaltungsteils findet nicht statt.
 ### Lerngruppen
-Die StudentInnen werden zu Beginn des Semesters in Lerngruppen zu maximal 6 Studierenden aufgeteilt. Die Auswahl der Lerngruppen erfolgt zu nächst selbstverantwortlich über entsprechende ILIAS-Funktionen oder externe Werkzeuge. Die Lerngruppen sollen das Selbsstudium und eigenverantwortliche Lernen unterstützten und sind Kernelement der individuellen Betreuung durch die Lehrenden. Jede Lerngruppe hat ein/e feste BetreuerIn (Dozierende und TutorInnen). 
+Die StudentInnen werden zu Beginn des Semesters in Lerngruppen zu maximal 6 Studierenden aufgeteilt. Die Auswahl der Lerngruppen erfolgt zu nächst selbstverantwortlich über entsprechende ILIAS-Funktionen oder externe Werkzeuge. Die Lerngruppen sollen das Selbsstudium und eigenverantwortliche Lernen unterstützten und sind Kernelement der individuellen Betreuung durch die Lehrenden. Jede Lerngruppe hat ein/e feste BetreuerIn (Dozierende und TutorInnen). Zu Beginn des Semesters werden die Lerngruppen **durch entsprechende Tutorials und Hinweise** auf Möglichkeiten der Zusammenarbeit hingewiesen und dementsprechend geschult.
 ### Zentralübung
+Wöchentlich findet eine kurze (max. 30 Minuten) Zentralübung in Form eines Live-Streams statt. Der Stream ist öffentlich und wird im Anschluss über entsprechende Links 
 ### Übungsaufgaben und Betreuung
 ### Projekte
 ### Studienleistungen und Prüfungen
@@ -15,6 +16,6 @@ Die StudentInnen werden zu Beginn des Semesters in Lerngruppen zu maximal 6 Stud
 ## TODOs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjIzNTI5NiwyNzg1OTQxMzAsNzcyMj
-g5NDg1XX0=
+eyJoaXN0b3J5IjpbLTEzNDg1OTY2MDIsMjc4NTk0MTMwLDc3Mj
+I4OTQ4NV19
 -->
