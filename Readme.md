@@ -1,6 +1,6 @@
 # Android im Sommersemester 2020
 ## Grundsätzlicher Aufbau und Kursbestandteile
-Der Kurs besteht aus einer bereits digitalisierten Vorlesung und einer freiwilligen Präsenzübung für die Regensburger StudentInnen. Die Vorlesung wird in Kooperation mit der Universität Passau über die VHB angeboten. Alle Materialien werden über die Passauer ILIAS-Plattform zugänglich gemacht. Externe StudentInnenabsolvieren zu Semesterbeginn eine elektronische Eignungsprüfung (ILIAS). Alle StudentInnen schreiben am Ende der Vorlesungszeit eine Klausur, deren Bestehen Zulassungsvoraussetzung für das Abschlussprojekt ist. Im Rahmen des Abschlussprojekts implementieren Studierende in Kleingruppen eine Android-Anwendung.
+Der Kurs besteht aus einer bereits digitalisierten Vorlesung und einer freiwilligen Präsenzübung für die Regensburger StudentInnen, in der wöchentlich wechselnde Übungs. Die Vorlesung wird in Kooperation mit der Universität Passau über die VHB angeboten. Alle Materialien werden über die Passauer ILIAS-Plattform zugänglich gemacht. Externe StudentInnenabsolvieren zu Semesterbeginn eine elektronische Eignungsprüfung (ILIAS). Alle StudentInnen schreiben am Ende der Vorlesungszeit eine Klausur, deren Bestehen Zulassungsvoraussetzung für das Abschlussprojekt ist. Im Rahmen des Abschlussprojekts implementieren Studierende in Kleingruppen eine Android-Anwendung.
 ### Personal
 Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet. Bei der Vorbereitung und Durchführung des Übungsbetriebs unterstützen drei Tutoren (SHK/WHK 40).
 ### Vorlesung
@@ -10,8 +10,8 @@ Die StudentInnen werden zu Beginn des Semesters in Lerngruppen zu maximal 6 Stud
 ### Zentralübung
 Wöchentlich findet eine kurze (max. 20 Minuten) Zentralübung in Form eines Live-Streams statt. Der Stream ist öffentlich und wird im Anschluss über entsprechende Links im ILIAS-System bereitgestellt. Die Zentralübung soll dabei die folgenden Ziele umsetzten:
 * **Struktur**: Durch die regelmäßige Durchführung des Streams mit allen Kursbeteiligten wird Kontinuität und Struktur geschaffen, die in der vollständig digitalisierten Kursform ggf. verloren gehen würde.
-* Organisation: Im Rahmen des Live-Streams können organisatorische Hinweise für den gesamten Kurs, z.B. die Erinnerung an die Flexnow-Anmeldung, ggb. werden. Diese erfolgen zusätzlich auch über die bereit bekannten asynchronen Systeme (ILIAS).
-* 
+* **Organisation**: Im Rahmen des Live-Streams können organisatorische Hinweise für den gesamten Kurs, z.B. die Erinnerung an die Flexnow-Anmeldung, ggb. werden. Diese erfolgen zusätzlich auch über die bereit bekannten asynchronen Systeme (ILIAS).
+* **Inhalt**: In der Zentralübung werden die aktuellen Themen der Vorlesung und Übung inhaltlich verortet. Dazu werden die zentralen Themen der Vorlesung zusammengefasst und entsprechende Hinweise für deren Aufbereitung im Selbststudium gegeben. Zusätzlich 
 ### Übungsaufgaben und Betreuung
 ### Projekte
 ### Studienleistungen und Prüfungen
@@ -19,6 +19,6 @@ Wöchentlich findet eine kurze (max. 20 Minuten) Zentralübung in Form eines Liv
 ## TODOs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3ODgzMjkzLDI3ODU5NDEzMCw3NzIyOD
+eyJoaXN0b3J5IjpbNTI2NTI4OTM5LDI3ODU5NDEzMCw3NzIyOD
 k0ODVdfQ==
 -->
