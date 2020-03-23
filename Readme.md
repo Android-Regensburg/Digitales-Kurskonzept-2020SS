@@ -25,16 +25,19 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 ### Studienleistungen und Prüfungen
 *tba*
 ## Eingesetzte Werkzeuge
+### Lernplattform
+- Alle statische Materialien werden den StudentInnen über ILIAS bereitgestellt
+- Alle Übungsaufgaben und Handouts werden 
 ### Streaming und Aufzeichnung
 - Als Streaming-Plattform wird [Twitch](twitch.tv) eingesetzt
 - Client-seitig wird [OBS](https://obsproject.com/de) verwendet
 - Alle Streams werden kurzfristig über Twitch archiviert, heruntergeladen und dauerhaft über andere Systeme verteilt (z.B. Mediathek der Uni oder YouTube)
 ### Live-Coaching
-- Als Plattform für das Live-Coaching werden einzelne Kanäle auf [Discord](https://discordapp.com/) oder eine ähnliche Umgebung (z.B
+- Als Plattform für das Live-Coaching werden einzelne Kanäle auf [Discord](https://discordapp.com/) oder eine ähnliche Umgebung (z.B. der [Rocket-Chat der Universität Regensburg]([https://chat.ur.de](https://chat.ur.de/)) eingesetzt
 ## TODOs
 *tba*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5MDgwMDM1LC01MzQzNDQ3MzEsNjUwMz
-YzOTgwLDI3ODU5NDEzMCw3NzIyODk0ODVdfQ==
+eyJoaXN0b3J5IjpbMTI3MDczOTY2MywtNTM0MzQ0NzMxLDY1MD
+M2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
 -->
