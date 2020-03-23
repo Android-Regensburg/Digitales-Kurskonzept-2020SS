@@ -1,6 +1,6 @@
 # Android im Sommersemester 2020
 ## Grundsätzlicher Aufbau und Kursbestandteile
-Der Kurs besteht aus einer bereits digitalisierten Vorlesung und einer freiwilligen Präsenzübung für die Regensburger StudentInnen, in der wöchentlich wechselnde Übungs. Die Vorlesung wird in Kooperation mit der Universität Passau über die VHB angeboten. Alle Materialien werden über die Passauer ILIAS-Plattform zugänglich gemacht. Externe StudentInnenabsolvieren zu Semesterbeginn eine elektronische Eignungsprüfung (ILIAS). Alle StudentInnen schreiben am Ende der Vorlesungszeit eine Klausur, deren Bestehen Zulassungsvoraussetzung für das Abschlussprojekt ist. Im Rahmen des Abschlussprojekts implementieren Studierende in Kleingruppen eine Android-Anwendung.
+Der Kurs besteht aus einer bereits digitalisierten Vorlesung und einer freiwilligen Präsenzübung für die Regensburger StudentInnen, in der wöchentlich wechselnde Übungsblätter (Programmieraufgaben) bearbeitet werden. Die Vorlesung wird in Kooperation mit der Universität Passau über die VHB angeboten. Alle Materialien werden über die Passauer ILIAS-Plattform zugänglich gemacht. Externe StudentInnenabsolvieren zu Semesterbeginn eine elektronische Eignungsprüfung (ILIAS). Alle StudentInnen schreiben am Ende der Vorlesungszeit eine Klausur, deren Bestehen Zulassungsvoraussetzung für das Abschlussprojekt ist. Im Rahmen des Abschlussprojekts implementieren Studierende in Kleingruppen eine Android-Anwendung.
 ### Personal
 Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet. Bei der Vorbereitung und Durchführung des Übungsbetriebs unterstützen drei Tutoren (SHK/WHK 40).
 ### Vorlesung
@@ -19,6 +19,6 @@ Wöchentlich findet eine kurze (max. 20 Minuten) Zentralübung in Form eines Liv
 ## TODOs
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2NTI4OTM5LDI3ODU5NDEzMCw3NzIyOD
-k0ODVdfQ==
+eyJoaXN0b3J5IjpbMTE4Mjg3MTY2MSwyNzg1OTQxMzAsNzcyMj
+g5NDg1XX0=
 -->
