@@ -27,11 +27,12 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 ## Eingesetzte Werkzeuge
 ### Streaming und Aufzeichnung
 - Als Streaming-Plattform wird [Twitch](twitch.tv) eingesetzt
-- Client-seitig wird 
+- Client-seitig wird [OBS](https://obsproject.com/de) verwendet
+- Alle Streams werden kurzf
 ## TODOs
 *tba*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzQ0NjUxLDY1MDM2Mzk4MCwyNzg1OT
-QxMzAsNzcyMjg5NDg1XX0=
+eyJoaXN0b3J5IjpbLTI0Nzg5ODU4MCw2NTAzNjM5ODAsMjc4NT
+k0MTMwLDc3MjI4OTQ4NV19
 -->
