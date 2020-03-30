@@ -27,7 +27,6 @@ Für jeder der Lerngruppen wird ein separater Kanal im Rocket-Chat der Universit
 * Wöchentlich auf die aktuelle Vorlesung, Zentralübung und die Übungsaufgaben hinzuweisen
 * Fragen und Probleme zu diskutieren oder für das wöchentliche Live-Coaching zu sammeln
 * Das Live-Coaching zu initiieren (Jitsi-Video-Chat) und zu unterstützten (zusätzlicher Chat-Kanal)
-
 ### Projekte
 > Genaue Ausgestaltung noch sehr unklar
 
@@ -62,7 +61,7 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1MjI3NDg2LC0xOTY0NDU1MjQ5LDEwNz
-Q5MjEzNDcsLTUzNDM0NDczMSw2NTAzNjM5ODAsMjc4NTk0MTMw
-LDc3MjI4OTQ4NV19
+eyJoaXN0b3J5IjpbLTIwNTUwMzMwNzYsLTE5NjQ0NTUyNDksMT
+A3NDkyMTM0NywtNTM0MzQ0NzMxLDY1MDM2Mzk4MCwyNzg1OTQx
+MzAsNzcyMjg5NDg1XX0=
 -->
