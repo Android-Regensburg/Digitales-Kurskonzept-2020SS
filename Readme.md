@@ -22,7 +22,9 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 * Individuelle Probleme geklärt
 Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching erstellt, das die wichtigsten Punkte und Hinweise für die Studierenden zusammenfasst. Diese Leitfäden werden kollaborativ durch alle Lehrenden erstellt.
 #### Organisation
-Für jeder der Lerngruppen wird ein separater Kanal im Rocket-Chat der Universität Regensburg eingerichtet. Dieser Kanal dient dem direkten und indirekten Austausch der Studierenden untereinander und mit dem betreuenden Dozierenden bzw. den TutorInnen. Allgemeine 
+Für jeder der Lerngruppen wird ein separater Kanal im Rocket-Chat der Universität Regensburg eingerichtet. Dieser Kanal dient dem direkten und indirekten Austausch der Studierenden untereinander und mit dem betreuenden Dozierenden bzw. den TutorInnen. Allgemeine Informationen zur Lerngruppe und zur Betreuung werden als *angepinnte* Infos ständig im Kanal eingeblendet. Zusätzlich dient der Kanal dazu:
+* Wöchentlich auf die aktuelle Vorlesung, Zentralübung und die Übungsaufgaben hinzuweisen
+* 
 
 ### Projekte
 > Genaue Ausgestaltung noch sehr unklar
@@ -58,7 +60,7 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjA1MTg4MzYsLTE5NjQ0NTUyNDksMT
-A3NDkyMTM0NywtNTM0MzQ0NzMxLDY1MDM2Mzk4MCwyNzg1OTQx
-MzAsNzcyMjg5NDg1XX0=
+eyJoaXN0b3J5IjpbMTQ1NDUyNDQ4MSwtMTk2NDQ1NTI0OSwxMD
+c0OTIxMzQ3LC01MzQzNDQ3MzEsNjUwMzYzOTgwLDI3ODU5NDEz
+MCw3NzIyODk0ODVdfQ==
 -->
