@@ -17,6 +17,7 @@ Wöchentlich findet eine kurze (max. 20 Minuten) Zentralübung in Form eines Liv
 Die Bearbeitung der Übungsaufgaben erfolgt individuelle. Die Lerngruppen sollen sich dabei jedoch unterstützen und austauschen. Jede Lerngruppe wird von Lehrende betreut. Dazu werden regelmäßige (wöchentliche), halbstündige Terminslots für ein *Live-Coaching* mit den Gruppen vereinbart. 
 #### Live-Coaching 
 Im Gespräch zwischen Lehrenden und Lerngruppe werden:
+* Kurz Stimmung und Fortschritt (gefühlter Lernstand) erhoben
 * Die studentischen Lösungen vorgestellt und präsentiert
 * Abweichungen vom Lösungsvorschlag diskutiert
 * Individuelle Probleme geklärt
@@ -24,7 +25,8 @@ Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching 
 #### Organisation
 Für jeder der Lerngruppen wird ein separater Kanal im Rocket-Chat der Universität Regensburg eingerichtet. Dieser Kanal dient dem direkten und indirekten Austausch der Studierenden untereinander und mit dem betreuenden Dozierenden bzw. den TutorInnen. Allgemeine Informationen zur Lerngruppe und zur Betreuung werden als *angepinnte* Infos ständig im Kanal eingeblendet. Zusätzlich dient der Kanal dazu:
 * Wöchentlich auf die aktuelle Vorlesung, Zentralübung und die Übungsaufgaben hinzuweisen
-* 
+* Fragen und Probleme zu diskutieren oder für das wöchentliche Live-Coaching zu sammeln
+* Das Live-Coaching zu initiieren (Jitsi-Video-Chat) und zu unterstützten (zusätzlicher Chat-Kanal)
 
 ### Projekte
 > Genaue Ausgestaltung noch sehr unklar
@@ -60,7 +62,7 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDUyNDQ4MSwtMTk2NDQ1NTI0OSwxMD
-c0OTIxMzQ3LC01MzQzNDQ3MzEsNjUwMzYzOTgwLDI3ODU5NDEz
-MCw3NzIyODk0ODVdfQ==
+eyJoaXN0b3J5IjpbOTI1MjI3NDg2LC0xOTY0NDU1MjQ5LDEwNz
+Q5MjEzNDcsLTUzNDM0NDczMSw2NTAzNjM5ODAsMjc4NTk0MTMw
+LDc3MjI4OTQ4NV19
 -->
