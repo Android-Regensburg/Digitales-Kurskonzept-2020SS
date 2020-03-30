@@ -13,14 +13,16 @@ Wöchentlich findet eine kurze (max. 20 Minuten) Zentralübung in Form eines Liv
 * **Organisation**: Im Rahmen des Live-Streams können organisatorische Hinweise für den gesamten Kurs, z.B. die Erinnerung an die Flexnow-Anmeldung, ggb. werden. Diese erfolgen zusätzlich auch über die bereit bekannten asynchronen Systeme (ILIAS).
 * **Inhalt**: In der Zentralübung werden die aktuellen Themen der Vorlesung und Übung inhaltlich verortet. Dazu werden die zentralen Themen der Vorlesung zusammengefasst und entsprechende Hinweise für deren Aufbereitung im Selbststudium gegeben. Zusätzlich wird das aktuelle Übungsblatt bzw. die aktuelle Übungsaufgabe vorgestellt und allgemeine Hinweise zu deren Bearbeitung gegeben. 
 * **Lernstandskontrolle**: In der Zentralübung wird deutlich gemacht, welche Inhalt aktuell bekannt und sicher angewendet werden können sollten.
-### Übungsaufgaben und Betreuung
+### Übungsaufgaben und Betreuung in Lerngruppen
 Die Bearbeitung der Übungsaufgaben erfolgt individuelle. Die Lerngruppen sollen sich dabei jedoch unterstützen und austauschen. Jede Lerngruppe wird von Lehrende betreut. Dazu werden regelmäßige (wöchentliche), halbstündige Terminslots für ein *Live-Coaching* mit den Gruppen vereinbart. 
-#### Live-Coaching
+#### Live-Coaching 
 Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 * Die studentischen Lösungen vorgestellt und präsentiert
 * Abweichungen vom Lösungsvorschlag diskutiert
 * Individuelle Probleme geklärt
 Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching erstellt, das die wichtigsten Punkte und Hinweise für die Studierenden zusammenfasst. Diese Leitfäden werden kollaborativ durch alle Lehrenden erstellt.
+#### Organisation
+
 ### Projekte
 > Genaue Ausgestaltung noch sehr unklar
 
@@ -43,7 +45,7 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 - Kondensatormikrofon an USB-Audio-Interface
 - Webcam (Logitech C920) oder professionelle Kamera an HDMI-Interface
 ### Live-Coaching
-- Als Plattform für das Live-Coaching werden einzelne Kanäle auf [Discord](https://discordapp.com/) oder eine ähnliche Umgebung (z.B. der [Rocket-Chat der Universität Regensburg]([https://chat.ur.de](https://chat.ur.de/)) eingesetzt
+- Als Plattform für das Live-Coaching wird der [Rocket-Chat der Universität Regensburg](https://chat.ur.de) eingesetzt
 ## TODOs
 > Unvollständig
 
@@ -55,7 +57,7 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQ0NTUyNDksMTA3NDkyMTM0NywtNT
-M0MzQ0NzMxLDY1MDM2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1
-XX0=
+eyJoaXN0b3J5IjpbMTg3ODc1Mjg0MiwtMTk2NDQ1NTI0OSwxMD
+c0OTIxMzQ3LC01MzQzNDQ3MzEsNjUwMzYzOTgwLDI3ODU5NDEz
+MCw3NzIyODk0ODVdfQ==
 -->
