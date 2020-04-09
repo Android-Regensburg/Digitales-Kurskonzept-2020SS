@@ -31,7 +31,8 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 * Abweichungen vom Lösungsvorschlag diskutiert
 * Individuelle Probleme geklärt
 Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching erstellt, das die wichtigsten Punkte und Hinweise für die Studierenden zusammenfasst. Diese Leitfäden werden kollaborativ durch alle Lehrenden erstellt.
-##### Inhalte und Vorbereitung Erste Übung
+##### Inhalte und Vorbereitung für erste Übung
+Die erste Übung findet in der ersten Vorlesungswoche statt. Diese ist von besonderer Bedeutung, da hier neben den ersten Kursinhalten auch die technischen Grundlagen für den Übungsbetrieb vermittelt bzw. sichergestellt werden müssen. Für diese erste Übung sind die folgenden vorberi
 - Arbeitsanweisungen: Grundlagen-Aufgaben durcharbeiten, Probleme und Fragen notieren
 - Lerngruppen via GRIPS erstellen lassen
 - Erste Nachricht: Erste Anweisungen und Termin für Video-Chat
@@ -74,7 +75,7 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMTM4NDY5MCw4MzM2Nzc1MDQsMTM5Nz
+eyJoaXN0b3J5IjpbMTM2NDYzOTU5NSw4MzM2Nzc1MDQsMTM5Nz
 I1NzEwOSwxMTA3Mzg0ODQ5LDIwMzUzNDMxMzAsMTEwMjMxNjU3
 MCwxMjY5MjE3MTg4LDE4OTMzMzU3MjIsNjQ4MTU4MzQ2LDI1MD
 M1NDkwNSwtMTk2NDQ1NTI0OSwxMDc0OTIxMzQ3LC01MzQzNDQ3
