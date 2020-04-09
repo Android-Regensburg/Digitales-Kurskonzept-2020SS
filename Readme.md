@@ -32,7 +32,8 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching erstellt, das die wichtigsten Punkte und Hinweise für die Studierenden zusammenfasst. Diese Leitfäden werden kollaborativ durch alle Lehrenden erstellt.
 ##### Inhalte für erste Übung
 - Arbeitsanweisungen: Grundlagen-Aufgaben durcharbeiten, Probleme und Fragen notieren
-- Lerngruppen via GRIPS erstellen
+- Lerngruppen via GRIPS erstellen lassen
+- 
 - Technische Lösungen klären (Chat, IDE, SDK, Emulator)
 - 
 
@@ -70,8 +71,8 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjU2NjM2NSwxMjY5MjE3MTg4LDE4OT
-MzMzU3MjIsNjQ4MTU4MzQ2LDI1MDM1NDkwNSwtMTk2NDQ1NTI0
-OSwxMDc0OTIxMzQ3LC01MzQzNDQ3MzEsNjUwMzYzOTgwLDI3OD
-U5NDEzMCw3NzIyODk0ODVdfQ==
+eyJoaXN0b3J5IjpbLTE0MzAwNTA1NDYsMTI2OTIxNzE4OCwxOD
+kzMzM1NzIyLDY0ODE1ODM0NiwyNTAzNTQ5MDUsLTE5NjQ0NTUy
+NDksMTA3NDkyMTM0NywtNTM0MzQ0NzMxLDY1MDM2Mzk4MCwyNz
+g1OTQxMzAsNzcyMjg5NDg1XX0=
 -->
