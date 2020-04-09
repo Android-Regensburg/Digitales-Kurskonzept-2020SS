@@ -37,7 +37,7 @@ Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching 
 - Vorher: Beschreibung zu Lerngruppen anpinnen: Was soll hier passieren
 - Vorher: Innerhalb der Gruppe Video-Call testen
 - 15min pro Gruppe
-- Technische Lösungen klären (Chat, IDE, SDK, Emulator)
+- Technische Lösungen klären (Chat, IDE, SDK, Emulator)gr
 
 ### Projekte
 > Genaue Ausgestaltung noch sehr unklar
@@ -73,9 +73,9 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzI1NzEwOSwxMTA3Mzg0ODQ5LDIwMz
-UzNDMxMzAsMTEwMjMxNjU3MCwxMjY5MjE3MTg4LDE4OTMzMzU3
-MjIsNjQ4MTU4MzQ2LDI1MDM1NDkwNSwtMTk2NDQ1NTI0OSwxMD
-c0OTIxMzQ3LC01MzQzNDQ3MzEsNjUwMzYzOTgwLDI3ODU5NDEz
-MCw3NzIyODk0ODVdfQ==
+eyJoaXN0b3J5IjpbODMzNjc3NTA0LDEzOTcyNTcxMDksMTEwNz
+M4NDg0OSwyMDM1MzQzMTMwLDExMDIzMTY1NzAsMTI2OTIxNzE4
+OCwxODkzMzM1NzIyLDY0ODE1ODM0NiwyNTAzNTQ5MDUsLTE5Nj
+Q0NTUyNDksMTA3NDkyMTM0NywtNTM0MzQ0NzMxLDY1MDM2Mzk4
+MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
 -->
