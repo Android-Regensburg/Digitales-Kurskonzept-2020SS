@@ -33,11 +33,8 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching erstellt, das die wichtigsten Punkte und Hinweise für die Studierenden zusammenfasst. Diese Leitfäden werden kollaborativ durch alle Lehrenden erstellt.
 ##### Inhalte und Vorbereitung für erste Übung
 Die erste Übung findet in der ersten Vorlesungswoche statt. Diese ist von besonderer Bedeutung, da hier neben den ersten Kursinhalten auch die technischen Grundlagen für den Übungsbetrieb vermittelt bzw. sichergestellt werden müssen. Für diese erste Übung sind die folgenden vorbereitet enden Maßnahmen und Inhalte geplante:
-- **Arbeitsanweisungen**: Die Lerngruppen werden bis zum Beginn der ersten Übungswoche gebildet und erhalten mit rechtzeitigem Vorlauf Instruktionen für die erste Übungsaufgabe (Einrichten der eigenen Arbeitsumgebung). Die Studierenden werden angehalten Fragen und Problem direkt per Chat zu stellen oder für das erste Live-Coaching zu sammeln.
-- 
-- Lerngruppen via GRIPS erstellen lassen
-- Erste Nachricht: Erste Anweisungen und Termin für Video-Chat
-- Vorher: Beschreibung zu Lerngruppen anpinnen: Was soll hier passieren
+- **Arbeitsanweisungen**: Die Lerngruppen werden bis zum Beginn der ersten Übungswoche gebildet und erhalten mit rechtzeitigem Vorlauf Instruktionen für die erste Übungsaufgabe (Einrichten der eigenen Arbeitsumgebung). Die Studierenden werden angehalten Fragen und Problem direkt per Chat zu stellen oder für das erste Live-Coaching zu sammeln. Die Arbeitsanweisungen sowie der Termin für den ersten Video-Chat werden entsprechend an jede Lerngruppe kommuniziert.
+- **Allgemeine Informationen**: Im Chat-Kanal der einzelnen Lerngruppen wird eine dauerhafte Nachricht *angepinnt*, in der erläuternde Informationen zur intendierten Verwendung des Kanals und dem allgemeinen Zweck der Lerngruppen zusammengefasst
 - Vorher: Innerhalb der Gruppe Video-Call testen
 - 15min pro Gruppe
 - Technische Lösungen klären (Chat, IDE, SDK, Emulator)gr
@@ -76,7 +73,7 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMzAxMzU1OCw4MzM2Nzc1MDQsMTM5Nz
+eyJoaXN0b3J5IjpbMTEzMjEwNzMwOSw4MzM2Nzc1MDQsMTM5Nz
 I1NzEwOSwxMTA3Mzg0ODQ5LDIwMzUzNDMxMzAsMTEwMjMxNjU3
 MCwxMjY5MjE3MTg4LDE4OTMzMzU3MjIsNjQ4MTU4MzQ2LDI1MD
 M1NDkwNSwtMTk2NDQ1NTI0OSwxMDc0OTIxMzQ3LC01MzQzNDQ3
