@@ -34,8 +34,8 @@ Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching 
 ##### Inhalte und Vorbereitung für erste Übung
 Die erste Übung findet in der ersten Vorlesungswoche statt. Diese ist von besonderer Bedeutung, da hier neben den ersten Kursinhalten auch die technischen Grundlagen für den Übungsbetrieb vermittelt bzw. sichergestellt werden müssen. Für diese erste Übung sind die folgenden vorbereitet enden Maßnahmen und Inhalte geplante:
 - **Arbeitsanweisungen**: Die Lerngruppen werden bis zum Beginn der ersten Übungswoche gebildet und erhalten mit rechtzeitigem Vorlauf Instruktionen für die erste Übungsaufgabe (Einrichten der eigenen Arbeitsumgebung). Die Studierenden werden angehalten Fragen und Problem direkt per Chat zu stellen oder für das erste Live-Coaching zu sammeln. Die Arbeitsanweisungen sowie der Termin für den ersten Video-Chat werden entsprechend an jede Lerngruppe kommuniziert.
-- **Allgemeine Informationen**: Im Chat-Kanal der einzelnen Lerngruppen wird eine dauerhafte Nachricht *angepinnt*, in der erläuternde Informationen zur intendierten Verwendung des Kanals und dem allgemeinen Zweck der Lerngruppen zusammengefasst
-- Vorher: Innerhalb der Gruppe Video-Call testen
+- **Allgemeine Informationen**: Im Chat-Kanal der einzelnen Lerngruppen wird eine dauerhafte Nachricht *angepinnt*, in der erläuternde Informationen zur intendierten Verwendung des Kanals und dem allgemeinen Zweck der Lerngruppen zusammengefasst werden.
+- **Vorbereitung**: Die Studierenden werden gebeten, Innerhalb der Gruppe Video-Call testen
 - 15min pro Gruppe
 - Technische Lösungen klären (Chat, IDE, SDK, Emulator)gr
 
@@ -73,9 +73,9 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjEwNzMwOSw4MzM2Nzc1MDQsMTM5Nz
-I1NzEwOSwxMTA3Mzg0ODQ5LDIwMzUzNDMxMzAsMTEwMjMxNjU3
-MCwxMjY5MjE3MTg4LDE4OTMzMzU3MjIsNjQ4MTU4MzQ2LDI1MD
-M1NDkwNSwtMTk2NDQ1NTI0OSwxMDc0OTIxMzQ3LC01MzQzNDQ3
-MzEsNjUwMzYzOTgwLDI3ODU5NDEzMCw3NzIyODk0ODVdfQ==
+eyJoaXN0b3J5IjpbLTExNzgzNzI0NDMsODMzNjc3NTA0LDEzOT
+cyNTcxMDksMTEwNzM4NDg0OSwyMDM1MzQzMTMwLDExMDIzMTY1
+NzAsMTI2OTIxNzE4OCwxODkzMzM1NzIyLDY0ODE1ODM0NiwyNT
+AzNTQ5MDUsLTE5NjQ0NTUyNDksMTA3NDkyMTM0NywtNTM0MzQ0
+NzMxLDY1MDM2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
 -->
