@@ -64,17 +64,17 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 ## TODOs
 > Unvollständig
 
-* [ ] Dokumenten-Repository als Grundlage für Ausarbeitung weiterer Kursmaterialen schaffen
-* [ ] Übungsaufaben nach Github übertragen
+* [x] Dokumenten-Repository als Grundlage für Ausarbeitung weiterer Kursmaterialen schaffen
+* [x] Übungsaufaben nach Github übertragen
 * [ ] Hardware (Webcams) für Tutorn besorgen
 * [ ] Zusätzliche Tutorials und Informationen vorbereiten
 * [ ] Streams planen und inhaltlich vorbereiten 
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyOTU3MDMsODMzNjc3NTA0LDEzOTcyNT
-cxMDksMTEwNzM4NDg0OSwyMDM1MzQzMTMwLDExMDIzMTY1NzAs
-MTI2OTIxNzE4OCwxODkzMzM1NzIyLDY0ODE1ODM0NiwyNTAzNT
-Q5MDUsLTE5NjQ0NTUyNDksMTA3NDkyMTM0NywtNTM0MzQ0NzMx
-LDY1MDM2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
+eyJoaXN0b3J5IjpbLTMwMjQ1NzEyOSw4MzM2Nzc1MDQsMTM5Nz
+I1NzEwOSwxMTA3Mzg0ODQ5LDIwMzUzNDMxMzAsMTEwMjMxNjU3
+MCwxMjY5MjE3MTg4LDE4OTMzMzU3MjIsNjQ4MTU4MzQ2LDI1MD
+M1NDkwNSwtMTk2NDQ1NTI0OSwxMDc0OTIxMzQ3LC01MzQzNDQ3
+MzEsNjUwMzYzOTgwLDI3ODU5NDEzMCw3NzIyODk0ODVdfQ==
 -->
