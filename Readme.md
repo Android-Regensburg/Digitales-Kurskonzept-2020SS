@@ -31,7 +31,8 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 * Individuelle Probleme geklärt
 Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching erstellt, das die wichtigsten Punkte und Hinweise für die Studierenden zusammenfasst. Diese Leitfäden werden kollaborativ durch alle Lehrenden erstellt.
 ##### Inhalte für erste Übung
-- Arbeitsanweisungen: Grundlagen-Aufgaben durcharbeite
+- Arbeitsanweisungen: Grundlagen-Aufgaben durcharbeiten, Probleme und Fragen notieren
+- 
 - Technische Lösungen klären (Chat, IDE, SDK, Emulator)
 - 
 
@@ -69,8 +70,8 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjkwMTc1OTksMTg5MzMzNTcyMiw2ND
-gxNTgzNDYsMjUwMzU0OTA1LC0xOTY0NDU1MjQ5LDEwNzQ5MjEz
-NDcsLTUzNDM0NDczMSw2NTAzNjM5ODAsMjc4NTk0MTMwLDc3Mj
-I4OTQ4NV19
+eyJoaXN0b3J5IjpbMTI2OTIxNzE4OCwxODkzMzM1NzIyLDY0OD
+E1ODM0NiwyNTAzNTQ5MDUsLTE5NjQ0NTUyNDksMTA3NDkyMTM0
+NywtNTM0MzQ0NzMxLDY1MDM2Mzk4MCwyNzg1OTQxMzAsNzcyMj
+g5NDg1XX0=
 -->
