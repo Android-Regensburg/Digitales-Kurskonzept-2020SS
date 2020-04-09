@@ -35,8 +35,8 @@ Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching 
 Die erste Übung findet in der ersten Vorlesungswoche statt. Diese ist von besonderer Bedeutung, da hier neben den ersten Kursinhalten auch die technischen Grundlagen für den Übungsbetrieb vermittelt bzw. sichergestellt werden müssen. Für diese erste Übung sind die folgenden vorbereitet enden Maßnahmen und Inhalte geplante:
 - **Arbeitsanweisungen**: Die Lerngruppen werden bis zum Beginn der ersten Übungswoche gebildet und erhalten mit rechtzeitigem Vorlauf Instruktionen für die erste Übungsaufgabe (Einrichten der eigenen Arbeitsumgebung). Die Studierenden werden angehalten Fragen und Problem direkt per Chat zu stellen oder für das erste Live-Coaching zu sammeln. Die Arbeitsanweisungen sowie der Termin für den ersten Video-Chat werden entsprechend an jede Lerngruppe kommuniziert.
 - **Allgemeine Informationen**: Im Chat-Kanal der einzelnen Lerngruppen wird eine dauerhafte Nachricht *angepinnt*, in der erläuternde Informationen zur intendierten Verwendung des Kanals und dem allgemeinen Zweck der Lerngruppen zusammengefasst werden.
-- **Vorbereitung**: Die Studierenden werden gebeten, Innerhalb der Gruppe Video-Call testen
-- 15min pro Gruppe
+- **Vorbereitung**: Die Studierenden werden gebeten, den Video-Chat innerhalb der Gruppe zu testen. Damit wird sichergestellt, dass etwaige technische Problem vor dem erste Live-Coaching identifiziert und ggf. bereits gelöst werden können.
+- **Inhalt und Zeitplan**: Für den ersten Video-Chat werden pro Gruppe 15 Minuten eingeplant. Dadurch bleuibt
 - Technische Lösungen klären (Chat, IDE, SDK, Emulator)gr
 
 ### Projekte
@@ -73,9 +73,9 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzgzNzI0NDMsODMzNjc3NTA0LDEzOT
-cyNTcxMDksMTEwNzM4NDg0OSwyMDM1MzQzMTMwLDExMDIzMTY1
-NzAsMTI2OTIxNzE4OCwxODkzMzM1NzIyLDY0ODE1ODM0NiwyNT
-AzNTQ5MDUsLTE5NjQ0NTUyNDksMTA3NDkyMTM0NywtNTM0MzQ0
-NzMxLDY1MDM2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
+eyJoaXN0b3J5IjpbNzY5MDQ5MjQsODMzNjc3NTA0LDEzOTcyNT
+cxMDksMTEwNzM4NDg0OSwyMDM1MzQzMTMwLDExMDIzMTY1NzAs
+MTI2OTIxNzE4OCwxODkzMzM1NzIyLDY0ODE1ODM0NiwyNTAzNT
+Q5MDUsLTE5NjQ0NTUyNDksMTA3NDkyMTM0NywtNTM0MzQ0NzMx
+LDY1MDM2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
 -->
