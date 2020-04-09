@@ -1,6 +1,7 @@
 # Android im Sommersemester 2020
 ## Grundsätzlicher Aufbau und Kursbestandteile
-Der Kurs besteht aus einer bereits digitalisierten Vorlesung und einer freiwilligen Präsenzübung für die Regensburger StudentInnen, in der wöchentlich wechselnde Übungsblätter (Programmieraufgaben) bearbeitet werden. Die Vorlesung wird in Kooperation mit der Universität Passau über die VHB angeboten. Alle Materialien werden über die Passauer ILIAS-Plattform zugänglich gemacht. Externe StudentInnenabsolvieren zu Semesterbeginn eine elektronische Eignungsprüfung (ILIAS). Alle StudentInnen schreiben am Ende der Vorlesungszeit eine Klausur, deren Bestehen Zulassungsvoraussetzung für das Abschlussprojekt ist. Im Rahmen des Abschlussprojekts implementieren Studierende in Kleingruppen eine Android-Anwendung.
+Der Kurs besteht aus einer bereits digitalisierten Vorlesung und einer freiwilligen Präsenzübung für die Regensburger StudentInnen, in der wöchentlich wechselnde Übungsblätter (Programmieraufgaben) bearbeitet werden. Die Vorlesung wird in Kooperation mit der Universität Passau über die VHB angeboten. Alle Materialien werden über die Passauer ILIAS-Plattform zugänglich gemacht. Externe StudentInnenabsolvieren zu Semesterbeginn eine elektronische Eignungsprüfung (ILIAS). Alle StudentInnen schreiben am Ende der Vorlesungszeit eine Klausur, deren Bestehen Zulassungsvoraussetzung für das Abschlussprojekt ist. Im Rahmen des Abschlussprojekts implementieren Studierende in Kleingruppen eine Android-Anwendung. 
+In Regensburg findet wird eine begleitende 
 ### Personal
 Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet. Bei der Vorbereitung und Durchführung des Übungsbetriebs unterstützen drei Tutoren (SHK/WHK 40).
 ### Vorlesung
@@ -73,9 +74,9 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzNjc3NTA0LDEzOTcyNTcxMDksMTEwNz
-M4NDg0OSwyMDM1MzQzMTMwLDExMDIzMTY1NzAsMTI2OTIxNzE4
-OCwxODkzMzM1NzIyLDY0ODE1ODM0NiwyNTAzNTQ5MDUsLTE5Nj
-Q0NTUyNDksMTA3NDkyMTM0NywtNTM0MzQ0NzMxLDY1MDM2Mzk4
-MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
+eyJoaXN0b3J5IjpbMjA3ODQ0ODkwNiw4MzM2Nzc1MDQsMTM5Nz
+I1NzEwOSwxMTA3Mzg0ODQ5LDIwMzUzNDMxMzAsMTEwMjMxNjU3
+MCwxMjY5MjE3MTg4LDE4OTMzMzU3MjIsNjQ4MTU4MzQ2LDI1MD
+M1NDkwNSwtMTk2NDQ1NTI0OSwxMDc0OTIxMzQ3LC01MzQzNDQ3
+MzEsNjUwMzYzOTgwLDI3ODU5NDEzMCw3NzIyODk0ODVdfQ==
 -->
