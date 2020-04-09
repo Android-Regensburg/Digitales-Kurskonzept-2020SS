@@ -34,7 +34,7 @@ Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching 
 - Arbeitsanweisungen: Grundlagen-Aufgaben durcharbeiten, Probleme und Fragen notieren
 - Lerngruppen via GRIPS erstellen lassen
 - Erste Nachricht: Erste Anweisungen und Termin für Video-Chat
-- 
+- 15min pro Gruppe
 - Technische Lösungen klären (Chat, IDE, SDK, Emulator)
 - 
 
@@ -72,7 +72,7 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzQyNTI3NCwxMTAyMzE2NTcwLDEyNj
+eyJoaXN0b3J5IjpbMjAzNTM0MzEzMCwxMTAyMzE2NTcwLDEyNj
 kyMTcxODgsMTg5MzMzNTcyMiw2NDgxNTgzNDYsMjUwMzU0OTA1
 LC0xOTY0NDU1MjQ5LDEwNzQ5MjEzNDcsLTUzNDM0NDczMSw2NT
 AzNjM5ODAsMjc4NTk0MTMwLDc3MjI4OTQ4NV19
