@@ -1,7 +1,7 @@
 # Android im Sommersemester 2020
 ## Grundsätzlicher Aufbau und Kursbestandteile
 Der Kurs besteht aus einer bereits digitalisierten Vorlesung und einer freiwilligen Präsenzübung für die Regensburger StudentInnen, in der wöchentlich wechselnde Übungsblätter (Programmieraufgaben) bearbeitet werden. Die Vorlesung wird in Kooperation mit der Universität Passau über die VHB angeboten. Alle Materialien werden über die Passauer ILIAS-Plattform zugänglich gemacht. Externe StudentInnenabsolvieren zu Semesterbeginn eine elektronische Eignungsprüfung (ILIAS). Alle StudentInnen schreiben am Ende der Vorlesungszeit eine Klausur, deren Bestehen Zulassungsvoraussetzung für das Abschlussprojekt ist. Im Rahmen des Abschlussprojekts implementieren Studierende in Kleingruppen eine Android-Anwendung. 
-In Regensburg findet wird eine begleitende 
+In Regensburg wird eine begleitende Übung angeboten. Die Studierenden werden in Kleingruppen durch Tutoren betreut. Wöchentliches Live-Coaching in Form von Gruppen-Video-Chats mit den Tutoren unterstützt dabei das Selbststudium der Gruppe. 
 ### Personal
 Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet. Bei der Vorbereitung und Durchführung des Übungsbetriebs unterstützen drei Tutoren (SHK/WHK 40).
 ### Vorlesung
@@ -31,7 +31,7 @@ Im Gespräch zwischen Lehrenden und Lerngruppe werden:
 * Abweichungen vom Lösungsvorschlag diskutiert
 * Individuelle Probleme geklärt
 Für jede Woche wird ein kurzes Skript für die Durchführung des Live-Coaching erstellt, das die wichtigsten Punkte und Hinweise für die Studierenden zusammenfasst. Diese Leitfäden werden kollaborativ durch alle Lehrenden erstellt.
-##### Erste Übung
+##### Inhalte und Vorbereitung Erste Übung
 - Arbeitsanweisungen: Grundlagen-Aufgaben durcharbeiten, Probleme und Fragen notieren
 - Lerngruppen via GRIPS erstellen lassen
 - Erste Nachricht: Erste Anweisungen und Termin für Video-Chat
@@ -74,7 +74,7 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODQ0ODkwNiw4MzM2Nzc1MDQsMTM5Nz
+eyJoaXN0b3J5IjpbMTAxMTM4NDY5MCw4MzM2Nzc1MDQsMTM5Nz
 I1NzEwOSwxMTA3Mzg0ODQ5LDIwMzUzNDMxMzAsMTEwMjMxNjU3
 MCwxMjY5MjE3MTg4LDE4OTMzMzU3MjIsNjQ4MTU4MzQ2LDI1MD
 M1NDkwNSwtMTk2NDQ1NTI0OSwxMDc0OTIxMzQ3LC01MzQzNDQ3
