@@ -2,7 +2,7 @@
 ## Grundsätzlicher Aufbau und Kursbestandteile
 Der Kurs besteht aus einer bereits digitalisierten Vorlesung und einer freiwilligen Präsenzübung für die Regensburger StudentInnen, in der wöchentlich wechselnde Übungsblätter (Programmieraufgaben) bearbeitet werden. Die Vorlesung wird in Kooperation mit der Universität Passau über die VHB angeboten. Alle Materialien werden über die Passauer ILIAS-Plattform zugänglich gemacht. Externe StudentInnenabsolvieren zu Semesterbeginn eine elektronische Eignungsprüfung (ILIAS). Alle StudentInnen schreiben am Ende der Vorlesungszeit eine Klausur, deren Bestehen Zulassungsvoraussetzung für das Abschlussprojekt ist. Im Rahmen des Abschlussprojekts implementieren Studierende in Kleingruppen eine Android-Anwendung. 
 
-Der Android-Kurs wird in Kooperation mit der Uni Passau durchgeführt. Wesentliche Teile sind bereits als VHB-Vorlesung digitalisiert. Eine besondere Herausforderung ist die Transformation der zusätzlichen, wöchentlichen Übungen, die für die Regensburger Studierenden angeboten werden. Im neuen Format werden die Studierenden in Kleingruppen von max. 5 TeilnehmerIhnnen durch die Tutoren betreut. Wöchentliches Live-Coaching in Form von Gruppen-Video-Chats mit den Tutoren unterstützt dabei das Selbststudium der Gruppe. 
+Der Android-Kurs wird in Kooperation mit der Uni Passau durchgeführt. Wesentliche Teile sind bereits als VHB-Vorlesung digitalisiert. Eine besondere Herausforderung ist die Transformation der zusätzlichen, wöchentlichen Übungen, die für die Regensburger Studierenden angeboten werden. Im neuen Format werden die Studierenden in Kleingruppen von max. 5 TeilnehmerIhnnen durch die DozentInnen und TutorInnenbetreut. Unter anderem sollen die Lerngruppen auch eine Verstärkung des selbsorganiserten Lernens auslösen. Wöchentliches Live-Coaching in Form von Gruppen-Video-Chats mit den Mitarbeitenden unterstützt dabei das Selbststudium der Gruppe. 
 ### Personal
 Der Kurs wird von **Alexander Bazo** (alexander.bazo@ur.de) betreut und geleitet. Bei der Vorbereitung und Durchführung des Übungsbetriebs unterstützen drei Tutoren (SHK/WHK 40).
 ### Vorlesung
@@ -73,10 +73,10 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzYwMTA5MiwtMzAyNDU3MTI5LDgzMz
-Y3NzUwNCwxMzk3MjU3MTA5LDExMDczODQ4NDksMjAzNTM0MzEz
-MCwxMTAyMzE2NTcwLDEyNjkyMTcxODgsMTg5MzMzNTcyMiw2ND
-gxNTgzNDYsMjUwMzU0OTA1LC0xOTY0NDU1MjQ5LDEwNzQ5MjEz
-NDcsLTUzNDM0NDczMSw2NTAzNjM5ODAsMjc4NTk0MTMwLDc3Mj
-I4OTQ4NV19
+eyJoaXN0b3J5IjpbLTEyMDU2NDgxNDAsLTMwMjQ1NzEyOSw4Mz
+M2Nzc1MDQsMTM5NzI1NzEwOSwxMTA3Mzg0ODQ5LDIwMzUzNDMx
+MzAsMTEwMjMxNjU3MCwxMjY5MjE3MTg4LDE4OTMzMzU3MjIsNj
+Q4MTU4MzQ2LDI1MDM1NDkwNSwtMTk2NDQ1NTI0OSwxMDc0OTIx
+MzQ3LC01MzQzNDQ3MzEsNjUwMzYzOTgwLDI3ODU5NDEzMCw3Nz
+IyODk0ODVdfQ==
 -->
