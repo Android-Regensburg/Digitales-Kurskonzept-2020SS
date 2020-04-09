@@ -56,9 +56,9 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 - Alle Streams werden kurzfristig über Twitch archiviert, heruntergeladen und dauerhaft über andere Systeme verteilt (z.B. Mediathek der Uni oder YouTube)
 - Für das Streamen/Aufzeichnen wird ein UR-gebrandetes Overlay bzw. Szenenpaket entwickelt
 #### Hardware
-- Uni-Workstation oder Persönlicher Rechner
+- Uni-Workstation oder persönlicher Rechner
 - Kondensatormikrofon an USB-Audio-Interface
-- Webcam (Logitech C920) oder professionelle Kamera an HDMI-Interface
+- Professionelle DSLR-Kamera  an HDMI-Interface 
 ### Live-Coaching
 - Als Plattform für das Live-Coaching wird der [Rocket-Chat der Universität Regensburg](https://chat.ur.de) eingesetzt
 ## TODOs
@@ -72,9 +72,9 @@ Alle Prüfungen werden, soweit möglich, elektronisch und *Remote* durchgeführt
 * [ ] Live Coaching-Anleitungen erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE0NDg5NjYsODMzNjc3NTA0LDEzOT
-cyNTcxMDksMTEwNzM4NDg0OSwyMDM1MzQzMTMwLDExMDIzMTY1
-NzAsMTI2OTIxNzE4OCwxODkzMzM1NzIyLDY0ODE1ODM0NiwyNT
-AzNTQ5MDUsLTE5NjQ0NTUyNDksMTA3NDkyMTM0NywtNTM0MzQ0
-NzMxLDY1MDM2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
+eyJoaXN0b3J5IjpbODMyOTU3MDMsODMzNjc3NTA0LDEzOTcyNT
+cxMDksMTEwNzM4NDg0OSwyMDM1MzQzMTMwLDExMDIzMTY1NzAs
+MTI2OTIxNzE4OCwxODkzMzM1NzIyLDY0ODE1ODM0NiwyNTAzNT
+Q5MDUsLTE5NjQ0NTUyNDksMTA3NDkyMTM0NywtNTM0MzQ0NzMx
+LDY1MDM2Mzk4MCwyNzg1OTQxMzAsNzcyMjg5NDg1XX0=
 -->
